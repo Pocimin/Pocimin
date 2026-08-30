@@ -56,5 +56,5 @@ ida · ghidra · x64dbg · dnspy · frida · snacks (very important)
 ---
 
 <div align="center">
-  <sub>be nice to your binaries, they have feelings too 🌷</sub>
+  <sub>yoo wsg gang prod rexnjordy</sub>
 </div>
