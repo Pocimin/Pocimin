@@ -34,13 +34,15 @@ binary archaeology, mostly: exam software, quiz platforms, game clients. if it r
 
 ### toolbox
 
+ida · ghidra · x64dbg · dnspy · frida · a suspicious number of hex editors
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,lua&perline=7" alt="languages" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ida,ghidra,git,github,windows,linux,bash&perline=7" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,bash&perline=5" alt="tools" />
   </a>
 </p>
 
