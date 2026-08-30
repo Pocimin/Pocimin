@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=640&lines=reverse+engineer.;i+break+software+to+understand+it.;sometimes+it+stays+broken.;if+it+runs%2C+it+can+be+read." alt="typing" />
 
+### [nznt.store](https://nznt.store)
+
 </div>
 
 ```text
