@@ -1,60 +1,32 @@
-<div align="center">
+# Hi, I'm nznt
 
-## nznt
+Self-taught developer finding my footing in code. Currently working with C / C++ and Lua / Luau — slow progress, but progress.
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=F5C2E7&center=true&vCenter=true&width=640&lines=hiiii%2C+i'm+nznt+%7E;junior+reverse+engineer!!;i+take+things+apart+to+see+how+they+work;and+sometimes+i+even+put+them+back;writing+random+projects+for+fun" alt="typing" />
+## Stats
 
-### [nznt.store](https://nznt.store)
+[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Pocimin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Pocimin)
 
-</div>
+[![Streak](https://streak-stats.demolab.com?user=Pocimin&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590)](https://github.com/Pocimin)
 
-```text
-$ xxd nznt.bin
-00000000: 6869 6969 6920 6d79 206e 616d 6573 206e  hiiii my names n
-00000010: 7a6e 742c 2069 6d20 6120 6a75 6e69 6f72  znt, im a junior
-00000020: 2072 6576 6572 7365 2065 6e67 696e 6565   reverse enginee
-00000030: 722c 2061 6e64 2077 7269 7465 7320 7261  r, and writes ra
-00000040: 6e64 6f6d 2070 726f 6a65 6374 7320 666f  ndom projects fo
-00000050: 7220 6675 6e21                           r fun!
-```
+## About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pocimin/Pocimin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pocimin/Pocimin/output/github-snake.svg" />
-  <img alt="a lil snake eating my contribution dots" src="https://raw.githubusercontent.com/Pocimin/Pocimin/output/github-snake.svg" />
-</picture>
+- Working with **C / C++ / C# and Lua / Luau**, reverse engineering, scripting, experimenting
+- Early stage, focused on understanding fundamentals before moving fast
+- Mostly writing random projects for fun
+- I take software apart to see how it works inside, and sometimes put it back
 
-### what i do
+## Languages & Tools
 
-junior reverse engineer — i take software apart to see how it works inside, and sometimes i put it back together with extra features. mostly random projects for fun.
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org) [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/) [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)](https://luau.org) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-- [**skidded-seb-patch**](https://github.com/Pocimin/skidded-seb-patch) — keeping vichingo455's seb patch alive on newer versions. lots of dnspy time.
-- [**wayground-cheat**](https://github.com/Pocimin/wayground-cheat) — show answer, undetectable. that's it. that's the description.
-- [**rise-v2**](https://github.com/Pocimin/Rise-V2) — mcbe client work. c++ and character development.
-- [**ez-gentoo**](https://github.com/Pocimin/ez-gentoo) — gentoo for larpers. one-click gentoo vm on hyper-v, because compiling everything builds character too.
-- [**today**](https://github.com/Pocimin/today) — i taught a cron job to journal so my graph never sleeps. it's more consistent than i am ~
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-a855f7?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-7c3aed?style=flat-square) ![x64dbg](https://img.shields.io/badge/x64dbg-a855f7?style=flat-square) ![dnSpy](https://img.shields.io/badge/dnSpy-7c3aed?style=flat-square) ![Frida](https://img.shields.io/badge/Frida-a855f7?style=flat-square) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
 
-### toolbox
+## Contribution Graph
 
-ida · ghidra · x64dbg · dnspy · frida · snacks (very important)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,lua&perline=7" alt="languages" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,bash&perline=5" alt="tools" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pocimin&show_icons=true&hide_border=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/streak/?user=Pocimin&hide_border=true&theme=catppuccin_mocha" height="165" alt="streak" />
-</p>
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pocimin&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&area_color=1e1040&hide_border=true)](https://github.com/Pocimin)
 
 ---
 
 <div align="center">
-  <sub>yoo wsg gang prod rexnjordy</sub>
+  <sub><a href="https://nznt.store">nznt.store</a></sub>
 </div>
