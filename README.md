@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pocimin/Pocimin/main/assets/spin-star.svg" width="80" alt="spinning star" />
+</p>
+
 # hi, i'm nznt
 
 self taught dev still finding my footing. currently messing around with lua/luau and some c/c++, doing reverse engineering stuff on the side. slow progress, but progress.
@@ -7,6 +11,21 @@ self taught dev still finding my footing. currently messing around with lua/luau
 [![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Pocimin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Pocimin)
 
 [![Streak](https://streak-stats.demolab.com?user=Pocimin&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590)](https://github.com/Pocimin)
+
+## projects
+
+| project | what it is |
+| --- | --- |
+| [**Zen-Client**](https://github.com/Pocimin/Zen-Client) | c++ client work, my most starred repo |
+| [**Placebo**](https://github.com/Pocimin/Placebo) | c++ client, this is where it all started |
+| [**today**](https://github.com/Pocimin/today) | a journal that writes itself, one cron-fed commit a day |
+| [**skidded-seb-patch**](https://github.com/Pocimin/skidded-seb-patch) | keeping vichingo455's seb patch alive on newer versions |
+| [**veil-obfuscator**](https://github.com/Pocimin/veil-obfuscator) | js obfuscator, string encoding and a little vm mode |
+| [**wayground-cheat**](https://github.com/Pocimin/wayground-cheat) | show answer, undetectable |
+| [**ez-gentoo**](https://github.com/Pocimin/ez-gentoo) | one-click gentoo vm on hyper-v |
+| [**Rise-V2**](https://github.com/Pocimin/Rise-V2) | mcbe client work |
+| [**Tiktok-Streak-Bot**](https://github.com/Pocimin/Tiktok-Streak-Bot) | python, spams streak friends from github actions |
+| [**Drag-Drive-Simulator-AutoFarm**](https://github.com/Pocimin/Drag-Drive-Simulator-AutoFarm) | lua autofarm i wrote for fun |
 
 ## about
 
