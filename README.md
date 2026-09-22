@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Pocimin/Pocimin/main/assets/spin-star.svg" width="80" alt="spinning star" />
 </p>
 
-# hi, i'm nznt
+# hi! my name's nznt/jordan
 
-self taught dev still finding my footing. currently messing around with lua/luau and some c/c++, doing reverse engineering stuff on the side. slow progress, but progress.
+im a self taught dev, doing random stuff for fun. currently messing around with c/c++ and some lua/luau for roblox side projet scripts, doing reverse engineering stuff (for roblox + mcbe) on the side.
 
 ## stats
 
